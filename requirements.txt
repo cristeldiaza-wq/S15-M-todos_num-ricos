@@ -2,6 +2,9 @@ scikit-learn
 pandas
 numpy
 seaborn
-streamlit
 matplotlib
 plotly
+tensorflow
+catboost
+lightgbm
+xgboost
